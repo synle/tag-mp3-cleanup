@@ -1,0 +1,32 @@
+module.exports = {
+  ARTISTS: [
+    'maroon 5',
+    'westlife',
+    'alan walker',
+    'calvin harris',
+    'charlie puth',
+    'dj snake',
+    'gnash',
+    'the chainsmokers',
+    'the weeknd',
+    'wiz khalifa',
+    'andra',
+    'shawn mendes',
+    'sia',
+    'mike posner',
+    'major lazer',
+    'akon',
+    'lindsey stirling',
+    'blue',
+    'one republic',
+    'onerepublic',
+    'bruno mars',
+    'passenger',
+    'katy perry',
+    'imagine dragons',
+    'justin timberlake',
+    'tuan hung',
+    'mr. siro'
+  ],
+  BLACK_LIST: ['fanmade', 'official', 'mv', 'hd', '-', '_', '(', ')', 'hq', ' full ', '完整']
+}
